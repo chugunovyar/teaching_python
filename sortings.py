@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! /usr/bin/python3.13
 import logging
 
 logging.basicConfig(level=logging.INFO)
